@@ -1,4 +1,4 @@
-cosa
+coast
 ====
 
-Contracts for Open-Source and Agile
+Contract for Open & Agile Software Teams
