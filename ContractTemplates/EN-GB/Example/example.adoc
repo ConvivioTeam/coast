@@ -51,17 +51,21 @@ include::Clauses/definitions.adoc[]
 [appendix]
 == About This Agreement
 This agreement is derived from a template by the COAST project - Contracts for Open and Agile Software Teams.
+
 This is an open and collaborative project to publish industry-standard agreements to support organisations working in productive ways with hood digital agencies.
+
 The project is maintained at https://github.com/ConvivioTeam/coast
 
 **LICENSE**
+
 COAST is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, go to: http://creativecommons.org/licenses/by-sa/4.0/
 
 By attribution, we mean that this Appendix 'About This Contract' must be retained as a condition of the license.
 
 **DISCLAIMER**
-The COAST project team make no claim to legal expertise and are not legal advisors.
+
+The COAST project team and contributors make no claim to legal expertise and are not legal advisors.
 You should obtain legal advice before using the COAST templates or signing any agreement based on them.
 
 The Parties agree that the contract templates are provided free on an 'As Is' basis,
