@@ -1,0 +1,34 @@
+// COAST CONTRACT DEFINITION FILE ==============================================
+// EXAMPLE CONTRACT ============================================================
+
+
+// SETTINGS ====================================================================
+
+// Bring in the global COAST settings. Do not edit this
+include::../../../Settings/settings.adoc[]
+
+// Set attributes specific to this contract
+:client: The Client
+
+
+// THE CONTRACT ================================================================
+
+// The document title
+= Example Contract
+
+// Include needed clauses below.
+include::{library}/example1.adoc[]
+include::{library}/example2.adoc[]
+include::Clauses/example3.adoc[]
+
+
+// APPENDICES ==================================================================
+
+// Page Break
+<<<
+
+// Global and local definitions
+include::{library}/example-definitions.adoc[]
+include::Clauses/definitions.adoc[]
+
+// Other appendices

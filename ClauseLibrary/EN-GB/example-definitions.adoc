@@ -1,0 +1,8 @@
+// The [appendix] tag will label this section with an appendix heading. Leave it in place.
+[appendix]
+== Definitions
+
+// The [horizontal] tag sets the layout for this section. Leave it in place.
+[horizontal]
+Term:: Each term in the agreement can have a definition in this section.
+Global:: Most definitions will be the same in all agreements, and so are set globally from the Clause Library.

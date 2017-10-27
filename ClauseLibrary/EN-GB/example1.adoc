@@ -1,0 +1,8 @@
+. About This Contract
+.. This is an example contract template.
+.. {client} is a reference to an attribute so can be renamed throughout the document simply by changing the text once in the attributes file.
++
+****
+NOTE: This is just an explanatory note to help understand the clause and doesn't form part of the agreement. It can refer to other parts of the agreement such as <<clause2>>
+****
+// Note that the + sign above is a 'list continuation' symbol to ensure the numbering sequence continues

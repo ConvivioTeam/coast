@@ -1,0 +1,1 @@
+Local Definitions:: A term that appears only in local clauses can have its definitions added to the definitions list by placing it in this document.

@@ -1,0 +1,3 @@
+. Local Clause
+.. This clause is specific to this contract and is in the folder for the contract, rather than the general Clause Library.
+.. It is best to generalise clauses as much as possible so they can be reused, but sometimes a specific one will be needed

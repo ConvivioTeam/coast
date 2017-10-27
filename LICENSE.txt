@@ -1,0 +1,17 @@
+COAST (Contract for Open and Agile Teams) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+
+To view a copy of this license, go to: http://creativecommons.org/licenses/by-sa/4.0/
+
+By attribution, we mean that there is a clause in each contract that refers to the COAST project, and this must be retained as a confition of the license.
+
+**IMPORTANT: By providing these templates we make no claim to legal expertise and are not legal advisors. We provide absolutely no warranty of any kind. You should obtain legal advice before using them.**
+
+**DISCLAIMER**
+
+THE CONTRACT TEMPLATES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE CONTRACT TEMPLATES OR THEIR USE OR OTHER
+DEALINGS IN THEM.
