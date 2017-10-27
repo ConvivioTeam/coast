@@ -22,8 +22,11 @@
 
 // Include needed clauses below.
 include::{library}/example1.adoc[]
+ +
 include::{library}/example2.adoc[]
+ +
 include::Clauses/example3.adoc[]
+ +
 
 
 // APPENDICES ==================================================================
@@ -33,6 +36,8 @@ include::Clauses/example3.adoc[]
 
 // Global and local definitions
 include::{library}/example-definitions.adoc[]
+ +
 include::Clauses/definitions.adoc[]
+ +
 
 // Other appendices
