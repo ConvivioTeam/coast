@@ -1,5 +1,3 @@
-// The [appendix] tag will label this section with an appendix heading. Leave it in place.
-[appendix]
 == Definitions
 
 // The [horizontal] tag sets the layout for this section. Leave it in place.
