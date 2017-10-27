@@ -22,11 +22,11 @@
 
 // Include needed clauses below, with a one-space-indented + on the lines between
 include::{library}/example1.adoc[]
- +
++
 include::{library}/example2.adoc[]
- +
++
 include::Clauses/example3.adoc[]
- +
++
 
 
 // APPENDICES ==================================================================
@@ -37,9 +37,9 @@ include::Clauses/example3.adoc[]
 // The [appendix] tag will label this section with an appendix heading. Leave it in place.
 [appendix]
 include::{library}/example-definitions.adoc[]
- +
++
 include::Clauses/definitions.adoc[]
- +
++
 
 // Other appendices, remember to add [appendix] tab beforehand, and a pagebreak using <<<
 // <<<

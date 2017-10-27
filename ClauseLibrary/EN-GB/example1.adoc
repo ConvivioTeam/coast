@@ -4,5 +4,6 @@
 +
 ****
 NOTE: This is just an explanatory note to help understand the clause and doesn't form part of the agreement. It can refer to other parts of the agreement such as <<clause2>>
+
+// Note that the + sign above is a 'list continuation' symbol to ensure the numbering sequence continues even when broken by the Note
 ****
-// Note that the + sign above is a 'list continuation' symbol to ensure the numbering sequence continues
