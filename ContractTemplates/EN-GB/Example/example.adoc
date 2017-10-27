@@ -4,8 +4,12 @@
 
 // SETTINGS ====================================================================
 
-// Bring in the global COAST settings. Do not edit this
-include::../../../Settings/settings.adoc[]
+// The global COAST settings. Do not edit these unless you're sure you know what you're doing!
+:language: EN-GB
+:library: ../../../ClauseLibrary/{language}
+:icons: font
+:stylesdir: ../../../Theme/
+:stylesheet: coast.css
 
 // Set attributes specific to this contract
 :client: The Client
