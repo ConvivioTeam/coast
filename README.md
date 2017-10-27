@@ -20,8 +20,6 @@ Our help section includes details of [How To Contribute](./Help/contributing.md)
 
 The templates are written in Asciidoc format. Our [Asciidoc help page](./Help/asciidoc.md) explains what this is and to use it.
 
-KNOWN LIMITATION: Unfortunately Github tries to parse Asciidoc files, but doesn't allow includes, which COAST relies on. Therefore if you are looking at these pages on Github you need to look at the 'Raw' version of each file.
-
 
 **IMPORTANT: By providing these templates we make no claim to legal expertise and are not legal advisors. We provide absolutely no warranty of any kind and accept no liability. You should obtain legal advice before using them.**
 
