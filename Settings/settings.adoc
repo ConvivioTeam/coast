@@ -1,8 +1,0 @@
-// This file contains global settings
-// Don't edit the attributes here unless you know what they mean
-
-:language: EN-GB
-:library: ../../../ClauseLibrary/{language}
-:icons: font
-:stylesdir: ../../../Theme/
-:stylesheet: coast.css
