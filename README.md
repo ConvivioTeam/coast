@@ -1,9 +1,9 @@
-#COAST
-##Contracts for Open and Agile Software Teams
+# COAST
+## Contracts for Open and Agile Software Teams
 
 The aim of this project is to develop standard contract templates for digital teams that truly support Agile working, the use of Open Source, and effective collaboration to deliver successful outcomes.
 
-An [example contract template](./ContractTemplates/EN-GB/Example) (which you can [view the compiled output of]()) demonstrates how the templates are built. Duplicate this folder to create new contract templates from scratch.
+An [example contract template](./ContractTemplates/EN-GB/Example) (which you can [view the compiled output of](http://htmlpreview.github.com/?https://github.com/ConvivioTeam/coast/blob/master/ContractTemplates/EN-GB/Example/example.html)) demonstrates how the templates are built. Duplicate this folder to create new contract templates from scratch.
 
 Work is currently underway to produce:
 * A simple and fair Non-Disclosure Agreement (NDA)
