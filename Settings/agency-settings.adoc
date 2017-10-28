@@ -1,0 +1,5 @@
+:Agency: The Agency
+:AgencyRegName: The Agency Ltd
+:AgencyRegLoc: England and Wales
+:AgencyRegNum: 12345678
+:AgencyRegAddress: 2nd Floor, Trendy Building, Big City

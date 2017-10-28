@@ -1,0 +1,11 @@
+--
+This Agreement is made on {Date}, between:
+
+(1) *{ClientRegName}*, a company registered in {ClientRegLoc} under number {ClientRegNum},
+whose registered office is {ClientRegAddress} ("{Client}"),
+
+and;
+
+(2) *{AgencyRegName}*, a company registered in {AgencyRegLoc} under number {AgencyRegNum},
+whose registered office is {AgencyRegAddress} ("{Agency}").
+--

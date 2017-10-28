@@ -19,11 +19,18 @@
 // the stylesheet in the /Theme folder, and changing the stylesheet name here.
 // This will enable you to adopt your own brand colours, fonts, styling.
 
+// Import central Agency Settings
+// You can change all the details for your agency in the file referenced here
+include::../../../Settings/agency-settings.adoc[]
+
 // Set attributes specific to this contract
 // These are the values you should customise for each time you need to
 // generate a copy of the contract specific to a client/project
 :Client: The Client
-:Agency: The Agency
+:ClientRegName: The Client PLC
+:ClientRegLoc: England & Wales
+:ClientRegNum: 87654321
+:ClientRegAddress: 10th Floor, Important Building, Big City
 :Date: 28th October 2017
 
 // THE CONTRACT ================================================================
@@ -32,6 +39,8 @@
 = Example Contract
 
 // Include needed clauses below, with a + on the lines between
+include::{clauselibrary}/parties.adoc[]
+
 include::{clauselibrary}/example1.adoc[]
 +
 include::{clauselibrary}/example2.adoc[]
