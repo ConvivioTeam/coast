@@ -6,22 +6,18 @@
 // own custom contracts.
 
 // SETTINGS ====================================================================
-// The document title
-= Example Contract
-
 // The COAST settings. Do not edit these unless you know what you're doing!
 :asciidoctor:
 :safe-mode-safe:
+:reproducible:
 :language: EN-GB
 :clauselibrary: ../../../ClauseLibrary/{language}
 :icons: font
 :stylesdir: ../../../Theme/
-:reproducible:
-
+:stylesheet: coast.css
 // You can customise the styling of the contract by copying and adapting
 // the stylesheet in the /Theme folder, and changing the stylesheet name here.
 // This will enable you to adopt your own brand colours, fonts, styling.
-:stylesheet: coast.css
 
 // Set attributes specific to this contract
 // These are the values you should customise for each time you need to
@@ -30,6 +26,9 @@
 
 
 // THE CONTRACT ================================================================
+
+// The document title
+= Example Contract
 
 // Include needed clauses below, with a + on the lines between
 include::{clauselibrary}/example1.adoc[]
