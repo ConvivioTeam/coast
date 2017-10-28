@@ -1,9 +1,10 @@
 . *About This Contract*
 .. This is an example contract template.
-.. {client} is a reference to an attribute so can be renamed throughout the document simply by changing the text once in the attributes file.
+.. "{client}" name and other specific information is automatically filled in, replacing variables in the templates, so can be renamed throughout the document simply by changing the text once in the settings.
+.. You can also put in references to other parts of the agreement such as <<Definitions>>
 +
 ****
-NOTE: This is just an explanatory note to help understand the clause and doesn't form part of the agreement. It can refer to other parts of the agreement such as <<Definitions>>
+NOTE: This is just an explanatory note to help understand the clause and doesn't form part of the agreement.
 
 // Note that the + sign above is a 'list continuation' symbol to ensure the numbering sequence continues even when broken by the Note
 ****

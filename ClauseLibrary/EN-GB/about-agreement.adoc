@@ -1,7 +1,7 @@
 == About This Agreement
 This agreement is derived from a template by the COAST project - Contracts for Open and Agile Software Teams.
 
-This is an open and collaborative project to publish industry-standard agreements to support organisations working in productive ways with hood digital agencies.
+This is an open and collaborative project to publish industry-standard agreements to support organisations working in productive ways with good digital agencies.
 
 The project is maintained at https://github.com/ConvivioTeam/coast
 

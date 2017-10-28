@@ -31,7 +31,7 @@ include::../../../Settings/agency-settings.adoc[]
 :ClientRegLoc: England & Wales
 :ClientRegNum: 87654321
 :ClientRegAddress: 10th Floor, Important Building, Big City
-:Date: 28th October 2017
+:ContractDate: 28th October 2017
 
 // THE CONTRACT ================================================================
 

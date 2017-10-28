@@ -1,6 +1,6 @@
 . *A second clause*
-.. Although this is from a separate file, the numbering sequence continues automagically.
+.. Although this is from a separate file in the Clause Library, the numbering sequence continues automagically.
 ... There can be multiple levels of clauses
 .... Lots of them
 ... So structure contracts as they read best
-.. Simply prepend each line with a number of periods to denote the level of each line.
+.. Simply prepend each line with a number of full stops to denote the level of each line.

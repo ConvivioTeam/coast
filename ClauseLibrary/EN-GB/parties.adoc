@@ -1,5 +1,5 @@
 --
-This Agreement is made on {Date}, between:
+This Agreement is made on {ContractDate}, between:
 
 (1) *{ClientRegName}*, a company registered in {ClientRegLoc} under number {ClientRegNum},
 whose registered office is {ClientRegAddress} ("{Client}"),
