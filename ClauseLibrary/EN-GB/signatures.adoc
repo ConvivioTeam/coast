@@ -1,0 +1,19 @@
+Signed on behalf of {Client} by:
+[cols="25%,75%"]
+|===
+
+|Signature |
+|Name |
+|Position |
+|Date |
+|===
+
+Signed on behalf of {Agency} by:
+[cols="25%,75%"]
+|===
+
+|Signature |
+|Name |
+|Position |
+|Date |
+|===
