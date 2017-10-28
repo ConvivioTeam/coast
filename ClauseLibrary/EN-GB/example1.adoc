@@ -1,4 +1,4 @@
-. About This Contract
+. *About This Contract*
 .. This is an example contract template.
 .. {client} is a reference to an attribute so can be renamed throughout the document simply by changing the text once in the attributes file.
 +

@@ -1,17 +1,26 @@
 // COAST CONTRACT DEFINITION FILE ==============================================
 // EXAMPLE CONTRACT ============================================================
-
+// This contract is an example template showing how to assemble clauses from
+// the global Clause Library and from local clauses specific to this contract.
+// You can also copy this Example folder to act as a good way to start your
+// own custom contracts.
 
 // SETTINGS ====================================================================
 
-// The global COAST settings. Do not edit these unless you're sure you know what you're doing!
+// The COAST settings. Do not edit these unless you know what you're doing!
 :language: EN-GB
 :library: ../../../ClauseLibrary/{language}
 :icons: font
 :stylesdir: ../../../Theme/
+
+// You can customise the styling of the contract by copying and adapting
+// the stylesheet in the /Theme folder, and changing the stylesheet name here.
+// This will enable you to adopt your own brand colours, fonts, styling.
 :stylesheet: coast.css
 
 // Set attributes specific to this contract
+// These are the values you should customise for each time you need to
+// generate a copy of the contract specific to a client/project
 :client: The Client
 
 
@@ -19,6 +28,8 @@
 
 // The document title
 = Example Contract
+:Author: Steve Parks
+:Email: steve.parks@weareconvivio.com
 
 // Include needed clauses below, with a one-space-indented + on the lines between
 include::{library}/example1.adoc[]
@@ -31,17 +42,21 @@ include::Clauses/example3.adoc[]
 
 // APPENDICES ==================================================================
 
-// Page Break
+// Page Break and Appendix tag
 <<<
-// APPENDIX with Global and local definitions
-// The [appendix] tag will label this section with an appendix heading. Leave it in place.
 [appendix]
+// APPENDIX with Global and local definitions
+// The [appendix] tag will label this section with an appendix heading.
+// Leave it in place.
 include::{library}/example-definitions.adoc[]
 +
 include::Clauses/definitions.adoc[]
 +
 
-// Other appendices, remember to add [appendix] tab beforehand, and a pagebreak using <<<
+
+// Other appendices, remember to add a pagebreak with <<< and an [appendix] tag
+// beforehand, such as:
+//
 // <<<
 // [appendix]
 
