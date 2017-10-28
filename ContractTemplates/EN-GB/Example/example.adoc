@@ -6,12 +6,17 @@
 // own custom contracts.
 
 // SETTINGS ====================================================================
+// The document title
+= Example Contract
 
 // The COAST settings. Do not edit these unless you know what you're doing!
+:asciidoctor:
+:safe-mode-safe:
 :language: EN-GB
-:library: ../../../ClauseLibrary/{language}
+:clauselibrary: ../../../ClauseLibrary/{language}
 :icons: font
 :stylesdir: ../../../Theme/
+:reproducible:
 
 // You can customise the styling of the contract by copying and adapting
 // the stylesheet in the /Theme folder, and changing the stylesheet name here.
@@ -26,13 +31,10 @@
 
 // THE CONTRACT ================================================================
 
-// The document title
-= Example Contract
-
-// Include needed clauses below, with a one-space-indented + on the lines between
-include::{library}/example1.adoc[]
+// Include needed clauses below, with a + on the lines between
+include::{clauselibrary}/example1.adoc[]
 +
-include::{library}/example2.adoc[]
+include::{clauselibrary}/example2.adoc[]
 +
 include::Clauses/example3.adoc[]
 +
@@ -46,7 +48,7 @@ include::Clauses/example3.adoc[]
 // APPENDIX with Global and local definitions
 // The [appendix] tag will label this section with an appendix heading.
 // Leave it in place.
-include::{library}/example-definitions.adoc[]
+include::{clauselibrary}/example-definitions.adoc[]
 +
 include::Clauses/definitions.adoc[]
 +
@@ -63,4 +65,4 @@ include::Clauses/definitions.adoc[]
 // This must be retained as a condition of the license
 <<<
 [appendix]
-include::{library}/about-agreement.adoc[]
+include::{clauselibrary}/about-agreement.adoc[]
