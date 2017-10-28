@@ -22,8 +22,9 @@
 // Set attributes specific to this contract
 // These are the values you should customise for each time you need to
 // generate a copy of the contract specific to a client/project
-:client: The Client
-
+:Client: The Client
+:Agency: The Agency
+:Date: 28th October 2017
 
 // THE CONTRACT ================================================================
 
@@ -36,8 +37,9 @@ include::{clauselibrary}/example1.adoc[]
 include::{clauselibrary}/example2.adoc[]
 +
 include::Clauses/example3.adoc[]
-+
 
+
+include::{clauselibrary}/signatures.adoc[]
 
 // APPENDICES ==================================================================
 
