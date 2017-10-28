@@ -1,4 +1,3 @@
-[[clause2]]
 . *A second clause*
 .. Although this is from a separate file, the numbering sequence continues automagically.
 ... There can be multiple levels of clauses

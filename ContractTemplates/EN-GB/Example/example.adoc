@@ -28,8 +28,6 @@
 
 // The document title
 = Example Contract
-:Author: Steve Parks
-:Email: steve.parks@weareconvivio.com
 
 // Include needed clauses below, with a one-space-indented + on the lines between
 include::{library}/example1.adoc[]
